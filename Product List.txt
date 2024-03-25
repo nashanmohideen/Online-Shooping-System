@@ -1,0 +1,3 @@
+2,TV,5,Electronic,200.0,Samsung,4
+21,Shirt,4,Clothing,20.0,16,White
+1234,dddd,3,Clothing,100.0,8,red
